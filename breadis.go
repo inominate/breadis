@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mediocregopher/breadis/srv"
+	"github.com/inominate/breadis/srv"
 )
 
 func main() {

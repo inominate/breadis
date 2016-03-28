@@ -4,9 +4,9 @@ import (
 	"errors"
 	"log"
 
-	"github.com/mediocregopher/breadis/config"
-	"github.com/mediocregopher/radix.v2/cluster"
-	"github.com/mediocregopher/radix.v2/redis"
+	"github.com/inominate/breadis/config"
+	"github.com/inominate/radix.v2/cluster"
+	"github.com/inominate/radix.v2/redis"
 )
 
 // errors

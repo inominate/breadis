@@ -5,9 +5,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/mediocregopher/breadis/bak"
-	"github.com/mediocregopher/breadis/config"
-	"github.com/mediocregopher/radix.v2/redis"
+	"github.com/inominate/breadis/bak"
+	"github.com/inominate/breadis/config"
+	"github.com/inominate/radix.v2/redis"
 )
 
 func Listen() {
